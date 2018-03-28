@@ -13,3 +13,32 @@
  *= require_tree .
  *= require_self
  */
+
+#headshot {
+  width: 100%; /* constrain the width */
+  height: auto; /* height automatically calculated to maintain aspect ratio */
+margin-bottom:40px;/*Whitespace needed for moble*/
+}
+
+
+
+#headshotContainer {
+  display: inline-block;
+    width: 30%;
+    margin: -4px
+        
+}
+
+#aboutContainer {
+  display: inline-block;
+    width: 70%;
+    margin: -4px;
+    vertical-align: top;
+} */
+
+<div class="container">
+  <!-- Content here -->
+  <div class="row">
+    <!-- This is where all our website content will go -->
+  </div>
+</div>
